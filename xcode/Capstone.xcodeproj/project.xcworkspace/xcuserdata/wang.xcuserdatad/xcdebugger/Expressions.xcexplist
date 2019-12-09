@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "mach_desc::get_cfstring_referenced():parse_mach.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:test.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "iter-&gt;first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "read_segment(__sFILE*, segment_command&amp;):parse_mach.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::post_process_invocations():parse_mach.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::export_references():parse_mach.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "getMethInTable(char const*):sqlite_db_ui.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "db_result[20674]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::read_file_to_memory():parse_mach.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "getMethodUseStringsMap(char const*):sqlite_db_ui.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "extract_func_desc(mach_desc const&amp;, std::__1::map&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, func_desc, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const, func_desc&gt; &gt; &gt;):parse_mach.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(code+47)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "process_ios_dir(std::__1::set&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):process_android_2_ios.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::import_references():parse_mach.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "get_common_prefix_in_set(std::__1::set&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt;&amp;):test.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "prefix_2_count.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "putMethodUseStringsMap(std::__1::map&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::set&lt;std::__1::pair&lt;ref_type, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::less&lt;std::__1::pair&lt;ref_type, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;ref_type, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const, std::__1::set&lt;std::__1::pair&lt;ref_type, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::less&lt;std::__1::pair&lt;ref_type, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;ref_type, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; &gt; &gt; &gt; &gt; const&amp;, char const*):sqlite_db_ui.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "insert_clause.length()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "get_ios_class_prefix_from_dir(std::__1::set&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):process_android_2_ios.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::release_buffer():parse_mach.h">
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::get_reference_details():parse_mach.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "meth_name">
+            </PersistentString>
+            <PersistentString
+               value = "idx">
+            </PersistentString>
+            <PersistentString
+               value = "insn[idx]">
+            </PersistentString>
+            <PersistentString
+               value = "method_vm_addr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::extract_lazy_symbol():parse_mach.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "buffer_str[4]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::extract_methods_and_refs():parse_mach.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_desc::disasm_method(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):parse_mach.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "insn[19].address">
+            </PersistentString>
+            <PersistentString
+               value = "iter-&gt;second">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "get_ios_class_prefix(std::__1::set&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):process_android_2_ios.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ios_input_file">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:process_android_2_ios.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "get_android2ios_const_map(std::__1::set&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):process_android_2_ios.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*iter_set">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "std::__1::__tree_node_base&lt;void*&gt;* std::__1::__tree_min&lt;std::__1::__tree_node_base&lt;void*&gt;*&gt;(std::__1::__tree_node_base&lt;void*&gt;*) [inlined]:__tree">
+      </ContextState>
+      <ContextState
+         contextName = "extract_method_desc(mach_desc const&amp;, std::__1::vector&lt;method_desc, std::__1::allocator&lt;method_desc&gt; &gt;&amp;):parse_mach.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
